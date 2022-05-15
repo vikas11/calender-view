@@ -13,6 +13,40 @@
   }
 }
 
+
+.flot-right{
+  float:right!important;
+}
+.hand{
+  cursor: pointer;
+  margin-top: 3px;
+}
+.center-align{
+  margin:0px auto;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+  width: 40%;
+  text-align: center;
+  margin-top: 3px;
+  font-weight: 600;
+}
+.calendar-tray{
+  width:100%;
+  border:0;
+  border: solid 1px #666;
+  cursor: pointer;
+  border-collapse: collapse;
+}
+.date-section{
+  border-right: solid 1px #666;
+  border-bottom: solid 1px #666;
+  text-align: center;
+}
+.span{
+  color:white;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
